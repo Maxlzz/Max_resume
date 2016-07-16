@@ -1,3 +1,2 @@
-# Max_resume
-#My resume
+# My resume
 

@@ -7,14 +7,13 @@ module.exports = {
         "backend": "Web 后端",
         "miscellaneous": "其他",
         "myself":"自我评价",
-        "links":"Links"
+        "links":"相关链接"
     },
     education_type: {
         "undergraduate": "（本科）"
     },
     link_type: {
         "zhihu": "知乎",
-        "doubanbook": "豆瓣读书",
         "repo": "源代码",
         "pdf": "PDF 下载"
     },

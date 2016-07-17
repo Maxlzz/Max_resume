@@ -3,11 +3,11 @@
   "ga_id": "UA-63818301-2",
   "resume_title": "梁真 - 个人简历",
   "name": "梁真",
-  "repo": "https://github.com/joyeecheung/resume.git",
+  "repo": "https://github.com/Maxlzz/max_resume.git",
   "job_description": ["Android开发工程师"],
   "contact": {
     "email": "toleonto@gmail.com",
-    "phone": "13036876469",
+    "phone": "1303687xxxx",
     "wechat": {
       "id": "Max_Liang_lz",
       "qrcode": "static/wechat.png"
@@ -19,17 +19,8 @@
 
   },
   "links": [{
-    "type": "repo",
-    "url": "https://github.com/Maxlzz/resume"
-
-  }, {
     "type": "pdf",
-    "url": "static/joyeecheung.pdf"
-
-  }, {
-    "type": "zhihu",
-    "url": "https://www.zhihu.com/people/wei-xiao-hu"
-
+    "url": "static/max_resume.pdf"
   }],
   "education": [{
     "type": "undergraduate",
@@ -71,8 +62,8 @@
     "techtype": "frontend",
     "project_type": "personal",
     "name": "Resume",
-    "source": "https://github.com/joyeecheung/resume",
-    "demo": "http://joyeecheung.github.io/resume/",
+    "source": "hthttps://github.com/Maxlzz/max_resume",
+    "demo": "https://maxlzz.github.io/max_resume/",
     "description": [
       "这份在线简历的生成器",
       "从` JSON` 读取数据，使用 `Jade` 模板生成 HTML，`Less` 生成**响应式**样式",
@@ -87,7 +78,7 @@
     "name": "CoverGirl",
     "source": "https://github.com/Maxlzz/CoverGirl",
     "description": [
-      "这是一个关于在线图片浏览的客户端，图片来源自``gank.io` ",
+      "这是一个关于在线图片浏览的客户端，图片来源自`gank.io` ",
       "采用的是`MVP`，`RxJava`,`Retrofit`,`MaterialDesig`及`Okhttp`构成",
       "所用的依赖库有：使用`butterknif`e进行`View`注解，`gson`进行`json`数据解析，`glide`进行图片加载"
     ],
@@ -101,7 +92,7 @@
     "source": "https://github.com/Maxlzz/TourismNews",
     "description": [
       "一款关于广西旅游信息及游客游记的客户端，其信息源来自`tourisamnews`",
-      "采用`jsoup`爬取网站信息分类编辑，`Universal-Image-loader`加载图片，`Volley`网络数据加载",
+      "采用`jsoup`爬取网站信息分类编辑，`Universal-Image-Loader`加载图片，`Volley`网络数据加载",
       "开发目的是广西旅游资源丰富，多地风景秀丽,但名声未显，遂进行市场细分"
     ],
     "stack": ["three.js", "mongodb", "express"],
@@ -112,15 +103,16 @@
     "item": [{
       "summary": "`Android`",
       "description": [
+        "掌握使用`Java`语言，熟练`Android`平台上的开发以及调试调优",
         "掌握`Android SDK`应用程序开发`Activity`、`Service`、`WebView`、`Location` etc",
         "掌握`Android`平台下的`Http`通信、`Socket`通信",
-        "了解`JavaScript`、`Html`、`CSS`、`Ajax`等相关WEB应用开发技术"
+        "掌握UI基本绘画技能，可进行自定义`View`组件创作"
       ]
     }]
   },{
     "type": "backend",
     "item": [{
-      "summary": "其他",
+      "summary": " ` 后端 ` ",
       "description": [
         "能够使用 `Node.js `  搭建简单的后端程序与数据库交互、渲染模板及提供 `RESTful API`",
         "使用 `Tornado` / `Flask`（`Python`） 搭建过简单的服务器",
@@ -132,10 +124,11 @@
     "type": "miscellaneous",
     "item": [
       "了解`Linux` ，了解命令与配置",
-      "熟悉 `Python`，能实现简单的数据及图像处理工具、自动化脚本、爬虫、机器学习算法及分布式程序（参见 GitHub）",
+      "熟悉 `Python`，能实现简单的数据及图像处理工具、自动化脚本、爬虫、博客",
       "了解基本的 `Web 安全`知识（`X.509` / `XSS` / `CSRF` 等）",
       "能够使用 `Markdown` 编写得体的文档或论文，具备良好的技术交流能力",
       "日常使用 `Git` 与 `Android Studio`、`Sublime Text` / `PyCharm` 进行开发，也乐于尝试新工具",
+      "了解`JavaScript`、`Html`、`CSS`、`Ajax`等相关WEB应用开发技术",
       "能够使用 `Photoshop` / `Illustrator` 完成简单的设计"
 
 
@@ -143,6 +136,34 @@
 
 
     ]
+
+  },{
+    "type":"myself",
+    "item":[{
+      "summary":"`self-assessment`",
+      "description":[
+        "适应能力强，能快速的适应新环境，融入到紧张的开发环境中",
+        "自学能力强，喜欢专研新技术,勇于面对困难，敢于挑战",
+        "具有良好的沟通组织能力和团队合作精神",
+        "爱好跑步，健身"
+      ]
+    }]
+  },{
+    "type":"links",
+    "item":[{
+      "summary":"`Links`",
+      "description":[
+        "`在线简历`",
+        "https://github.com/Maxlzz/resume",
+
+        "`知乎`",
+         "https://www.zhihu.com/people/wei-xiao-hu"
+
+
+
+
+      ]
+    }]
 
   }]
 

@@ -69,6 +69,11 @@ mixin skills_frontend(item)
 mixin skills_backend(item)
   +skills_basic(item)(attributes)
 
+mixin skills_myself(item)
+  +skills_basic(item)(attributes)
+
+mixin skills_links(item)
+  +skills_basic(item)(attributes)
 
 mixin skills_miscellaneous(item)
     ul.skills-description.skills-miscellaneous.timeline-content

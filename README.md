@@ -1,6 +1,6 @@
 ## About this repo(max_resume)
 
-`max_resume` 是一个简历生成器，从json中读取数据，可部署到`github pages` 在线浏览，也可生成pdf格式简历。http://hawx1993.github.io/resume-master/
+`max_resume` 是一个简历生成器，从json中读取数据，可部署到`github pages` 在线浏览，右侧边栏下载。https://maxlzz.github.io/max_resume/
 
 
 
@@ -37,7 +37,7 @@ $ npm install -g bower
 
 4.终端执行`gulp deploy` 稍等片刻即可部署完毕
 
-5.到你的`github pages`站点访问（url后面加上`/resume-master`即可访问）
+5.到你的`github pages`站点访问（url后面加上`/max_resume/`即可访问）
 
 ## LICENSE
 
